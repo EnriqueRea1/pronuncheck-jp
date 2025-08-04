@@ -124,7 +124,7 @@ curl -X POST http://localhost:5005/upload_audio \
 
 ```
 .
-├── app.py                 # Código principal
+├── server.py                 # Código principal
 ├── uploads/               # Carpeta donde se guardan los audios
 ├── requirements.txt       # Dependencias del proyecto
 └── README.md              # Documentación
